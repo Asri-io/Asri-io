@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Precious 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Nigeria 🇳🇬 · Available for hire worldwide<br/><br/>
+  <b>Full-Stack Developer</b> · Available for hire worldwide<br/><br/>
   I build complete web products — from pixel-perfect frontends to production-ready backends.<br/>
   E-commerce, marketplaces, booking platforms, SaaS tools. If it runs on the web, I can build it.
 </p>
@@ -103,6 +103,6 @@ Got a project in mind? I'd love to hear about it.
   </a>
 </p>
 
-- 🌍 Based in Nigeria — works remotely with clients worldwide
+- 🌍 Works remotely with clients worldwide
 - ⚡ Fast turnaround, clean code, production-ready delivery
 - 💬 Responsive communication throughout the project
