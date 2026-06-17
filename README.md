@@ -163,15 +163,13 @@ Not just code. Actual products that work, perform, and look great.
 
 <br/>
 
-### 🎮 Side Project — MC Server
+### 🎮 Side Project — QuestForge
 
-<p>
-  Personal <strong>Paper Minecraft server</strong> setup with custom configuration, security hardening, and a <code>start.bat</code> launcher script. Nothing groundbreaking — just for fun.
-  &nbsp;
-  <a href="https://github.com/Asri-io/mc-server">
-    <img src="https://img.shields.io/badge/View%20Repo-302b63?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+A **Paper Minecraft quest engine plugin** built in Java — multi-stage quests, in-game GUI editor, Citizens2 NPC integration, Vault economy rewards, triple database support (SQLite/MySQL/PostgreSQL), PlaceholderAPI, and a full JUnit test suite. Drop-in `.jar` for any Paper/Spigot server.
+&nbsp;
+<a href="https://github.com/Asri-io/portfolio#%EF%B8%8F-project-5--questforge">
+  <img src="https://img.shields.io/badge/View%20Details-302b63?style=flat&logo=github&logoColor=white" />
+</a>
 
 <br/>
 
