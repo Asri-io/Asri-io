@@ -163,6 +163,18 @@ Not just code. Actual products that work, perform, and look great.
 
 <br/>
 
+### 🎮 Side Project — MC Server
+
+<p>
+  Personal <strong>Paper Minecraft server</strong> setup with custom configuration, security hardening, and a <code>start.bat</code> launcher script. Nothing groundbreaking — just for fun.
+  &nbsp;
+  <a href="https://github.com/Asri-io/mc-server">
+    <img src="https://img.shields.io/badge/View%20Repo-302b63?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
 ---
 
 ## 🛠 Tech Stack
